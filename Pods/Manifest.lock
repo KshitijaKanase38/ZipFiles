@@ -1,0 +1,20 @@
+PODS:
+  - CryptoSwift (1.4.2)
+  - ZIPFoundation (0.9.11)
+
+DEPENDENCIES:
+  - CryptoSwift (~> 1.4.1)
+  - ZIPFoundation (~> 0.9)
+
+SPEC REPOS:
+  trunk:
+    - CryptoSwift
+    - ZIPFoundation
+
+SPEC CHECKSUMS:
+  CryptoSwift: a532e74ed010f8c95f611d00b8bbae42e9fe7c17
+  ZIPFoundation: b1f0de4eed33e74a676f76e12559ab6b75990197
+
+PODFILE CHECKSUM: db4d9d235029bff293ab9573a2a809ef53802975
+
+COCOAPODS: 1.10.1

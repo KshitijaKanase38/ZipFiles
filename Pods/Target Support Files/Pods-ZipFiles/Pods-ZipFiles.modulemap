@@ -1,0 +1,6 @@
+module Pods_ZipFiles {
+  umbrella header "Pods-ZipFiles-umbrella.h"
+
+  export *
+  module * { export * }
+}

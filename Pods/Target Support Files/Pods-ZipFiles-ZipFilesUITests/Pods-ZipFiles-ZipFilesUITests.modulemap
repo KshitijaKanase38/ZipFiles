@@ -1,0 +1,6 @@
+module Pods_ZipFiles_ZipFilesUITests {
+  umbrella header "Pods-ZipFiles-ZipFilesUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
